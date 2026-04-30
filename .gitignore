@@ -49,3 +49,14 @@ Thumbs.db
 # Local environment
 .env
 *.log
+
+# Maven Wrapper
+!.mvn/wrapper/maven-wrapper.jar
+!mvnw
+!mvnw.cmd
+
+# General ignores
+target/
+*.class
+.idea/
+.DS_Store
