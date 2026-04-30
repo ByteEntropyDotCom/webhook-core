@@ -60,3 +60,20 @@ target/
 *.class
 .idea/
 .DS_Store
+
+
+# Compiled class files
+target/
+*.class
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Virtual Machine logs
+hs_err_pid*
